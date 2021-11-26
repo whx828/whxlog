@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["数字生活"]
+ :favorites ["Hello" "数字生活"]
  :journal/page-title-format "yyyy_MM_dd"
  :feature/enable-journals? false
  :default-home {:page "数字生活"}
