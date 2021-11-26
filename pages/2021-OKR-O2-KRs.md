@@ -1,5 +1,5 @@
-- 学习 Python 项目
-- 搭建个人博客
+- 学习 Python 项目 #2021-OKR-02-KRs
+- 搭建个人博客 #2021-OKR-02-KRs
 	- 以 Spring 为后端
 	- 学习 HTML、CSS、JavaScript 前端三大件
-- 学习树莓派
+- 学习树莓派 #2021-OKR-02-KRs
