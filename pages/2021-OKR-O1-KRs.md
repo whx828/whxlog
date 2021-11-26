@@ -18,31 +18,33 @@
            [(contains? #{"TODO" "DOING" "DONE" "LATER" "NOW"} ?marker)])]
    :inputs [:current-page]}
   #+END_QUERY
-- #+BEGIN_QUERY
-  {:title [:code "花费时间 (分钟)"]
-  :query [:find (sum ?spent-min)
-               :in $ ?current-page
-                            :where
-                            [?p :page/name ?current-page]
-                            [?b :block/ref-pages ?p]
-                            [?b :block/marker ?m]
-                            [(contains? #{"DOING" "DONE"} ?m)]
-                            [?b :block/properties ?prop]
-                            [(get ?prop "doing") ?doing]
-                            [(get ?prop "done") ?done]
-                            [(- ?done ?doing) ?spent]
-                            [(/ ?spent 60000) ?spent-min]]
-                :inputs [:current-page]
-  }
-  #+END_QUERY
-- #+BEGIN_QUERY
-  {:title "打卡（次数）"
-   :query [:find (count ?b)
-           :in $ ?current-page
-           :where
-           [?p :page/name ?current-page]
-           [?b :block/marker ?marker]
-           [?b :block/ref-pages ?p]
-           [(= "DONE" ?marker)]]
-   :inputs [:current-page]}
-  #+END_QUERY
+-
+	- query-table:: false
+	  #+BEGIN_QUERY
+	  {:title [:code "花费时间 (分钟)"]
+	  :query [:find (sum ?spent-min)
+	               :in $ ?current-page
+	                            :where
+	                            [?p :page/name ?current-page]
+	                            [?b :block/ref-pages ?p]
+	                            [?b :block/marker ?m]
+	                            [(contains? #{"DOING" "DONE"} ?m)]
+	                            [?b :block/properties ?prop]
+	                            [(get ?prop "doing") ?doing]
+	                            [(get ?prop "done") ?done]
+	                            [(- ?done ?doing) ?spent]
+	                            [(/ ?spent 60000) ?spent-min]]
+	                :inputs [:current-page]
+	  }
+	  #+END_QUERY
+	- #+BEGIN_QUERY
+	  {:title "打卡（次数）"
+	   :query [:find (count ?b)
+	           :in $ ?current-page
+	           :where
+	           [?p :page/name ?current-page]
+	           [?b :block/marker ?marker]
+	           [?b :block/ref-pages ?p]
+	           [(= "DONE" ?marker)]]
+	   :inputs [:current-page]}
+	  #+END_QUERY
