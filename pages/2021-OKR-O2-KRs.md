@@ -1,3 +1,5 @@
 - 学习 Python 项目
 - 搭建个人博客
-	- 以Spring
+	- 以 Spring 为后端
+	- 学习 HTML、CSS、JavaScript 前端三大件
+- 细化
