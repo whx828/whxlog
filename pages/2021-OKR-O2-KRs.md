@@ -2,4 +2,4 @@
 - 搭建个人博客
 	- 以 Spring 为后端
 	- 学习 HTML、CSS、JavaScript 前端三大件
-- 细化
+- 学习树莓派
