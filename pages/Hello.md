@@ -23,7 +23,8 @@
 		- 延
 		-
 	- [[统计]]
-		- #+BEGIN_QUERY
+		- query-table:: false
+		  #+BEGIN_QUERY
 		  {:query [:find (pull ?b [*])
 		           :where
 		           [?b :block/marker ?marker]
@@ -36,7 +37,8 @@
 		   }
 		  #+END_QUERY
 		-
-		- #+BEGIN_QUERY
+		- query-table:: false
+		  #+BEGIN_QUERY
 		  {:query [:find (pull ?b [*])
 		           :where
 		           [?b :block/marker ?marker]
@@ -63,7 +65,8 @@
 		   }
 		  #+END_QUERY
 		-
-		- #+BEGIN_QUERY
+		- query-table:: false
+		  #+BEGIN_QUERY
 		  {:query [:find (pull ?b [*])
 		           :where
 		           [?b :block/marker ?marker]

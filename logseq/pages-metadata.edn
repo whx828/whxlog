@@ -1,6 +1,9 @@
 [{:block/name "../assets/bitcoin_1637850671340_0.pdf",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
+ {:block/name "../assets/bitcoin_zh_cn_1637850655613_0.pdf",
+  :block/created-at 1637897264704,
+  :block/updated-at 1637897264704}
  {:block/name
   "../assets/visible_learning_for_teachers_maximizing_impact_on_learning-routledge_1637850707448_0.pdf",
   :block/created-at 1637889127095,
@@ -11,13 +14,19 @@
  {:block/name "../assets/置身事内：中国政府与经济发展_1637850604109_0.pdf",
   :block/created-at 1637889127098,
   :block/updated-at 1637889127098}
- {:block/name ".v-eisenhower-matrix",
-  :block/created-at 1637889127098,
-  :block/updated-at 1637889127098}
+ {:block/name "./license",
+  :block/created-at 1637897264704,
+  :block/updated-at 1637897264704}
+ {:block/name ".eisenhower-matrix",
+  :block/created-at 1637897264704,
+  :block/updated-at 1637897264704}
  {:block/name
   "20 things i’ve learned in my 20 years as a software engineer",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
+ {:block/name "2021",
+  :block/created-at 1637892647020,
+  :block/updated-at 1637896608824}
  {:block/name "2021.10.10 -> 2021.10.16flomo",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -65,16 +74,22 @@
   :block/updated-at 1637845065574}
  {:block/name "2021.11.21 -> 2021.11.27flomo",
   :block/created-at 1637845065573,
-  :block/updated-at 1637849243997}
+  :block/updated-at 1637896727755}
  {:block/name "2021.11.21 -> 2021.11.27学习记录",
   :block/created-at 1637845065572,
   :block/updated-at 1637845065572}
  {:block/name "2021.11.21 -> 2021.11.27每周复盘",
   :block/created-at 1637845065575,
-  :block/updated-at 1637851666119}
+  :block/updated-at 1637897239550}
+ {:block/name "2021.11.28 -> 2021.12.4flomo",
+  :block/created-at 1637897264704,
+  :block/updated-at 1637897264704}
+ {:block/name "2021.11.28 -> 2021.12.4每周复盘",
+  :block/created-at 1637897264705,
+  :block/updated-at 1637897264705}
  {:block/name "2021.11.7 -> 2021.11.13flomo",
   :block/created-at 1637845065574,
-  :block/updated-at 1637845065574}
+  :block/updated-at 1637895520113}
  {:block/name "2021.11.7 -> 2021.11.13学习记录",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -87,9 +102,6 @@
  {:block/name "2021.5.10随想",
   :block/created-at 1637889127099,
   :block/updated-at 1637889127099}
- {:block/name "2021.5.11",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
  {:block/name "2021.5.11杂记",
   :block/created-at 1637889127098,
   :block/updated-at 1637889127098}
@@ -103,12 +115,6 @@
   :block/created-at 1637889127099,
   :block/updated-at 1637889127099}
  {:block/name "2021.5.13",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
- {:block/name "2021.5.13杂记",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
- {:block/name "2021.5.13随想",
   :block/created-at 1637889127096,
   :block/updated-at 1637889127096}
  {:block/name "2021.5.14",
@@ -131,7 +137,7 @@
   :block/updated-at 1637889127095}
  {:block/name "2021.5.16随想",
   :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
+  :block/updated-at 1637897009672}
  {:block/name "2021.5.17杂记",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
@@ -156,9 +162,6 @@
  {:block/name "2021.5.20随想",
   :block/created-at 1637889127096,
   :block/updated-at 1637889127096}
- {:block/name "2021.5.21",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
  {:block/name "2021.5.21杂记",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
@@ -180,18 +183,12 @@
  {:block/name "2021.5.24杂记",
   :block/created-at 1637889127096,
   :block/updated-at 1637889127096}
- {:block/name "2021.5.24随想",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
  {:block/name "2021.5.25杂记",
   :block/created-at 1637889127099,
   :block/updated-at 1637889127099}
  {:block/name "2021.5.25随想",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
- {:block/name "2021.5.26",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
  {:block/name "2021.5.26杂记",
   :block/created-at 1637889127096,
   :block/updated-at 1637889127096}
@@ -309,6 +306,15 @@
  {:block/name "2021/8近期目标",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
+ {:block/name "2021_11_26",
+  :block/created-at 1637891930510,
+  :block/updated-at 1637896307080}
+ {:block/name "2021年12月",
+  :block/created-at 1637891468641,
+  :block/updated-at 1637893794047}
+ {:block/name "2021年目标",
+  :block/created-at 1637891069188,
+  :block/updated-at 1637893865417}
  {:block/name "80 岁的安藤忠雄，在中国重造青春",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -336,7 +342,7 @@
   :block/updated-at 1637845065574}
  {:block/name "contents",
   :block/created-at 1637845065575,
-  :block/updated-at 1637849219752}
+  :block/updated-at 1637893796769}
  {:block/name "crystal_foundations",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -361,12 +367,12 @@
  {:block/name "favorites",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
- {:block/name "git的学习",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
  {:block/name "google的搜索技巧",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
+ {:block/name "hello",
+  :block/created-at 1637890772093,
+  :block/updated-at 1637894663501}
  {:block/name "how to read a paper 如何读论文",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -398,24 +404,15 @@
  {:block/name "processing-py-1",
   :block/created-at 1637845065575,
   :block/updated-at 1637850708030}
- {:block/name "pyray的学习",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
  {:block/name "python",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "python学习笔记",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
- {:block/name "python项目的学习",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
  {:block/name "readme",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
- {:block/name "rust的学习",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
  {:block/name "spring_boot学习笔记",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -437,9 +434,6 @@
  {:block/name "todo",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
- {:block/name "tpp的学习",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
  {:block/name "typing_variables_and_controlling_the_flow",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -458,6 +452,9 @@
  {:block/name "what_the_fuck_python",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
+ {:block/name " 在做计划事项",
+  :block/created-at 1637897264705,
+  :block/updated-at 1637897264705}
  {:block/name "λ-reading",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -467,15 +464,15 @@
  {:block/name "人际交往",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
- {:block/name "体育锻炼",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
  {:block/name "信息",
   :block/created-at 1637845065572,
   :block/updated-at 1637845065572}
  {:block/name "健康",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
+ {:block/name "元宇宙",
+  :block/created-at 1637897264705,
+  :block/updated-at 1637897264705}
  {:block/name "写作",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -503,12 +500,6 @@
  {:block/name "图像",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
- {:block/name "在做其他事项",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
- {:block/name "在做计划事项",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
  {:block/name "多态",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -518,9 +509,6 @@
  {:block/name "如何不靠运气变得富有",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
- {:block/name "如何把自己变成一个学习机器",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
  {:block/name "如何有效地报告bug",
   :block/created-at 1637845065574,
   :block/updated-at 1637846452079}
@@ -556,7 +544,7 @@
   :block/updated-at 1637845065575}
  {:block/name "念楼学短",
   :block/created-at 1637845065573,
-  :block/updated-at 1637850471097}
+  :block/updated-at 1637896855305}
  {:block/name "思考",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -569,36 +557,27 @@
  {:block/name "技术",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
+ {:block/name "提问",
+  :block/created-at 1637897264705,
+  :block/updated-at 1637897264705}
  {:block/name "数字生活",
   :block/created-at 1637845065574,
-  :block/updated-at 1637850130517}
+  :block/updated-at 1637894211570}
  {:block/name "方法",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
- {:block/name "有趣尝试",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
- {:block/name "木心的诗",
-  :block/created-at 1637889127095,
-  :block/updated-at 1637889127095}
- {:block/name "杂记",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
  {:block/name "格言",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
- {:block/name "模版收集处",
   :block/created-at 1637889127099,
   :block/updated-at 1637889127099}
  {:block/name "每周复盘",
   :block/created-at 1637845065573,
-  :block/updated-at 1637845065573}
+  :block/updated-at 1637893659348}
  {:block/name "浏览器收藏夹整理",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "浮墨笔记",
   :block/created-at 1637845065574,
-  :block/updated-at 1637845065574}
+  :block/updated-at 1637893824163}
  {:block/name "环境变量",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -620,6 +599,9 @@
  {:block/name "管理",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
+ {:block/name "统计",
+  :block/created-at 1637897264704,
+  :block/updated-at 1637897264704}
  {:block/name "编程",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -635,33 +617,15 @@
  {:block/name "英语笔记",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
- {:block/name "获取youtube和github的rss",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
- {:block/name "计算",
-  :block/created-at 1637845065575,
-  :block/updated-at 1637845065575}
  {:block/name "计算机",
-  :block/created-at 1637845065574,
-  :block/updated-at 1637845065574}
- {:block/name "记录",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "论文准备",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
- {:block/name "论文进度",
-  :block/created-at 1637889127099,
-  :block/updated-at 1637889127099}
  {:block/name "读书笔记",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
- {:block/name "费米估算",
-  :block/created-at 1637845065574,
-  :block/updated-at 1637845065574}
- {:block/name "长期成长",
-  :block/created-at 1637889127096,
-  :block/updated-at 1637889127096}
  {:block/name "阅读",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
