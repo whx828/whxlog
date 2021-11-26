@@ -2,8 +2,8 @@
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
  {:block/name "../assets/bitcoin_zh_cn_1637850655613_0.pdf",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name
   "../assets/visible_learning_for_teachers_maximizing_impact_on_learning-routledge_1637850707448_0.pdf",
   :block/created-at 1637889127095,
@@ -15,11 +15,11 @@
   :block/created-at 1637889127098,
   :block/updated-at 1637889127098}
  {:block/name "./license",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name ".eisenhower-matrix",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name
   "20 things i’ve learned in my 20 years as a software engineer",
   :block/created-at 1637845065575,
@@ -28,17 +28,17 @@
   :block/created-at 1637892647020,
   :block/updated-at 1637901599753}
  {:block/name "2021-okr-01-krs",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name "2021-okr-02-krs",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "2021-okr-03-krs",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name "2021-okr-04-krs",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name "2021-okr-o1-krs",
   :block/created-at 1637899865012,
   :block/updated-at 1637900493374}
@@ -98,7 +98,7 @@
   :block/updated-at 1637845065574}
  {:block/name "2021.11.21 -> 2021.11.27flomo",
   :block/created-at 1637845065573,
-  :block/updated-at 1637902137824}
+  :block/updated-at 1637902469643}
  {:block/name "2021.11.21 -> 2021.11.27学习记录",
   :block/created-at 1637845065572,
   :block/updated-at 1637845065572}
@@ -106,11 +106,11 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637902022379}
  {:block/name "2021.11.28 -> 2021.12.4flomo",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "2021.11.28 -> 2021.12.4每周复盘",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "2021.11.7 -> 2021.11.13flomo",
   :block/created-at 1637845065574,
   :block/updated-at 1637895520113}
@@ -480,8 +480,8 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name " 在做计划事项",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "λ-reading",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -498,8 +498,8 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "元宇宙",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "写作",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -528,8 +528,8 @@
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "在做计划事项",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name "多态",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -587,9 +587,12 @@
  {:block/name "技术",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
+ {:block/name "技能",
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name "提问",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "数字生活",
   :block/created-at 1637845065574,
   :block/updated-at 1637900614870}
@@ -600,8 +603,8 @@
   :block/created-at 1637889127099,
   :block/updated-at 1637889127099}
  {:block/name "歌曲",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673961,
+  :block/updated-at 1637902673961}
  {:block/name "每周复盘",
   :block/created-at 1637845065573,
   :block/updated-at 1637893659348}
@@ -633,8 +636,8 @@
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "统计",
-  :block/created-at 1637902304319,
-  :block/updated-at 1637902304319}
+  :block/created-at 1637902673960,
+  :block/updated-at 1637902673960}
  {:block/name "编程",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
