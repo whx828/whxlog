@@ -339,7 +339,7 @@ title: Λ-Reading
 一锤子买卖，不要执着于工具。
 
 > What improved your quality of life so much, you wish you did it sooner?
->
+
 > Stop working more than 40 hours a week.
 > Setting my own boundaries after realizing that when I didn't, people set them for me.
 
