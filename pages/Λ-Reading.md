@@ -340,8 +340,8 @@ title: Λ-Reading
 
 > What improved your quality of life so much, you wish you did it sooner?
 >
-> - Stop working more than 40 hours a week.
-> - Setting my own boundaries after realizing that when I didn't, people set them for me.
+> Stop working more than 40 hours a week.
+> Setting my own boundaries after realizing that when I didn't, people set them for me.
 
 这些是 reddit 上面这个问题排行靠前的回答，工作和生活真的就难以平衡吗？
 
