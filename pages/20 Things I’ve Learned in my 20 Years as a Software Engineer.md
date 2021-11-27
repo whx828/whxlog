@@ -88,62 +88,52 @@
   
   10 倍的程序员是一个愚蠢的神话。认为一个人可以在一天内完成另一个有能力、勤奋、同样有经验的程序员在两周内完成的工作，这种想法是愚蠢的。我曾经见过程序员把代码量增加 10 倍，然后你必须把它修复 10 倍。一个人能成为 10 倍程序员的唯一方法就是将他们与 0.1 倍程序员进行比较。浪费时间，不要求反馈，不测试代码，不考虑边缘案例等等。.我们更应该关心的是让 0.1 x 的程序员远离我们的团队，而不是寻找神话般的 10 倍程序员。
 ### 11. One of the biggest differences between a senior engineer and a junior engineer is that they’ve formed opinions about the way things should be
-### 图 11。高级工程师和初级工程师最大的区别之一是，他们已经形成了对事情应该是什么样子的看法
-
-Nothing worries me more than a senior engineer that has no opinion of their tools or how to approach building software. I’d rather someone give me opinions that I violently disagree with than for them to have no opinions at all. If you are using your tools, and you don’t love or hate them in a myriad of ways, you need to experience more. You need to explore other languages, libraries, and paradigms. There are few ways of leveling up your skills faster than actively seeking out how others accomplish tasks with different tools and techniques than you do.
-
-没有什么比一个高级工程师对他们的工具或者如何构建软件没有意见更让我担心的了。我宁愿有人给我一些我强烈反对的意见，也不愿他们没有任何意见。如果你正在使用你的工具，并且你不以无数种方式爱或恨它们，你需要体验更多。您需要探索其他语言、库和范例。几乎没有什么方法可以比你更快地升级你的技能，而是积极地寻找其他人是如何用不同的工具和技术完成任务的。
+### 11. 高级工程师和初级工程师最大的区别之一是，他们已经形成了对事情应该是什么样子的看法
+- Nothing worries me more than a senior engineer that has no opinion of their tools or how to approach building software. I’d rather someone give me opinions that I violently disagree with than for them to have no opinions at all. If you are using your tools, and you don’t love or hate them in a myriad of ways, you need to experience more. You need to explore other languages, libraries, and paradigms. There are few ways of leveling up your skills faster than actively seeking out how others accomplish tasks with different tools and techniques than you do.
+  
+  没有什么比一个高级工程师对他们的工具或者如何构建软件没有意见更让我担心的了。我宁愿有人给我一些我强烈反对的意见，也不愿他们没有任何意见。如果你正在使用你的工具，并且你不以无数种方式爱或恨它们，你需要体验更多。您需要探索其他语言、库和范例。几乎没有什么方法可以比你更快地升级你的技能，而是积极地寻找其他人是如何用不同的工具和技术完成任务的。
 ### 12. People don’t really want innovation
 ### 12\. 人们并不真的需要创新
-
-People talk about innovation a whole lot, but what they are usually looking for is cheap wins and novelty. If you truly innovate, and change the way that people have to do things, expect mostly negative feedback. If you believe in what you’re doing, and know it will really improve things, then brace yourself for a long battle.
-
-人们总是谈论创新，但是他们通常寻找的是廉价的胜利和新奇。如果你真的在创新，改变人们做事的方式，最好期待负面的反馈。如果你相信你正在做的事情，并且知道它真的会改善事情，那么就做好准备迎接一场长期的战斗。
+- People talk about innovation a whole lot, but what they are usually looking for is cheap wins and novelty. If you truly innovate, and change the way that people have to do things, expect mostly negative feedback. If you believe in what you’re doing, and know it will really improve things, then brace yourself for a long battle.
+  
+  人们总是谈论创新，但是他们通常寻找的是廉价的胜利和新奇。如果你真的在创新，改变人们做事的方式，最好期待负面的反馈。如果你相信你正在做的事情，并且知道它真的会改善事情，那么就做好准备迎接一场长期的战斗。
 ### 13. Your data is the most important part of your system
 ### 13\. 你的数据是你系统中最重要的部分
-
-I’ve seen a lot of systems where hope was the primary mechanism of data integrity. In systems like this, anything that happens off the golden path creates partial or dirty data. Dealing with this data in the future can become a nightmare. Just remember, your data will likely long outlive your codebase. Spend energy keeping it orderly and clean, it’ll pay off well in the long run.
-
-我见过很多把希望作为数据完整性主要机制的系统。在这样的系统中，黄金路径之外发生的任何事情都会创建部分或脏数据。未来处理这些数据可能会成为一场噩梦。请记住，您的数据可能会比代码库更长寿。花费精力保持它的有序和清洁，从长远来看，它会得到很好的回报。
+- I’ve seen a lot of systems where hope was the primary mechanism of data integrity. In systems like this, anything that happens off the golden path creates partial or dirty data. Dealing with this data in the future can become a nightmare. Just remember, your data will likely long outlive your codebase. Spend energy keeping it orderly and clean, it’ll pay off well in the long run.
+  
+  我见过很多把希望作为数据完整性主要机制的系统。在这样的系统中，黄金路径之外发生的任何事情都会创建部分或脏数据。未来处理这些数据可能会成为一场噩梦。请记住，您的数据可能会比代码库更长寿。花费精力保持它的有序和清洁，从长远来看，它会得到很好的回报。
 ### 14. Look for technological sharks
 ### 14\. 寻找科技鲨鱼
-
-Old technologies that have stuck around are [sharks, not dinosaurs](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/). They solve problems so well that they have survived the rapid changes that occur constantly in the technology world. Don’t bet against these technologies, and replace them only if you have a very good reason. These tools won’t be flashy, and they won’t be exciting, but they will get the job done without a lot of sleepless nights.
-
-一直存在的老技术是鲨鱼，而不是恐龙。他们解决问题的能力如此之强，以至于他们在技术世界不断发生的快速变化中幸存了下来。不要对这些技术打赌，只有在你有很好的理由的情况下才替换它们。这些工具不会华而不实，也不会令人兴奋，但它们可以在没有许多不眠之夜的情况下完成工作。
+- Old technologies that have stuck around are [sharks, not dinosaurs](https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/). They solve problems so well that they have survived the rapid changes that occur constantly in the technology world. Don’t bet against these technologies, and replace them only if you have a very good reason. These tools won’t be flashy, and they won’t be exciting, but they will get the job done without a lot of sleepless nights.
+  
+  一直存在的老技术是鲨鱼，而不是恐龙。他们解决问题的能力如此之强，以至于他们在技术世界不断发生的快速变化中幸存了下来。不要对这些技术打赌，只有在你有很好的理由的情况下才替换它们。这些工具不会华而不实，也不会令人兴奋，但它们可以在没有许多不眠之夜的情况下完成工作。
 ### 15. Don’t mistake humility for ignorance
 ### 15\. 不要把谦卑误认为无知
-
-There are a lot of software engineers out there who won’t express opinions unless asked. Never assume that just because someone isn’t throwing their opinions in your face that they don’t have anything to add. Sometimes the noisiest people are the ones we want to listen to the least. Talk to the people around you, seek their feedback and advice. You’ll be glad you did.
-
-有很多软件工程师除非被问到，否则不会表达意见。永远不要因为别人没有把他们的意见扔到你面前，就认为他们没有什么要补充的。有时候最吵的人恰恰是我们最不想听的人。与你周围的人交谈，寻求他们的反馈和建议。你会很高兴你这么做的。
+- There are a lot of software engineers out there who won’t express opinions unless asked. Never assume that just because someone isn’t throwing their opinions in your face that they don’t have anything to add. Sometimes the noisiest people are the ones we want to listen to the least. Talk to the people around you, seek their feedback and advice. You’ll be glad you did.
+  
+  有很多软件工程师除非被问到，否则不会表达意见。永远不要因为别人没有把他们的意见扔到你面前，就认为他们没有什么要补充的。有时候最吵的人恰恰是我们最不想听的人。与你周围的人交谈，寻求他们的反馈和建议。你会很高兴你这么做的。
 ### 16. Software engineers should write regularly
 ### 16\. 软件工程师应该定期写作
-
-Software engineers should regularly blog, journal, write documentation and in general do anything that requires them to keep their written communication skills sharp. Writing helps you think about your problems, and helps you communicate those more effectively with your team and your future self. Good written communication is one of the most important skills for any software engineer to master.
-
-软件工程师应该定期写博客、日志、写文档，并且一般地做任何需要他们保持书面沟通技巧敏锐的事情。写作可以帮助你思考你的问题，并帮助你更有效地与你的团队和你未来的自己沟通。对于任何软件工程师来说，良好的书面沟通能力是最重要的技能之一。
+- Software engineers should regularly blog, journal, write documentation and in general do anything that requires them to keep their written communication skills sharp. Writing helps you think about your problems, and helps you communicate those more effectively with your team and your future self. Good written communication is one of the most important skills for any software engineer to master.
+  
+  软件工程师应该定期写博客、日志、写文档，并且一般地做任何需要他们保持书面沟通技巧敏锐的事情。写作可以帮助你思考你的问题，并帮助你更有效地与你的团队和你未来的自己沟通。对于任何软件工程师来说，良好的书面沟通能力是最重要的技能之一。
 ### 17. Keep your processes as lean as possible
 ### 17\. 保持你的过程尽可能的精简
-
-Everyone wants to be agile these days, but being “agile” is about building things in small chunks, learning, and then iterating. If someone is trying to shoehorn much more into it than that, then they’re [probably selling something](https://www.simplethread.com/agile-at-20-the-failed-rebellion/). It isn’t to say that people don’t need accountability or help to work this way, but how many times have you heard someone from your favorite tech company or large open source project brag about how great their Scrum process is? Stay lean on process until you know you need more. Trust your team and they will deliver.
-
-现在每个人都希望变得敏捷，但是“敏捷”是指在小的范围内构建事物，学习，然后迭代。如果有人试图把更多的东西塞进去，那么他们很可能是在卖东西。这并不是说人们不需要问责或帮助来这样工作，但是你有多少次听到你最喜欢的科技公司或大型开源项目的人吹嘘他们的 Scrum 流程有多棒？在你知道自己需要更多的东西之前，一直遵循流程。相信你的团队，他们会做到的。
+- Everyone wants to be agile these days, but being “agile” is about building things in small chunks, learning, and then iterating. If someone is trying to shoehorn much more into it than that, then they’re [probably selling something](https://www.simplethread.com/agile-at-20-the-failed-rebellion/). It isn’t to say that people don’t need accountability or help to work this way, but how many times have you heard someone from your favorite tech company or large open source project brag about how great their Scrum process is? Stay lean on process until you know you need more. Trust your team and they will deliver.
+  
+  现在每个人都希望变得敏捷，但是“敏捷”是指在小的范围内构建事物，学习，然后迭代。如果有人试图把更多的东西塞进去，那么他们很可能是在卖东西。这并不是说人们不需要问责或帮助来这样工作，但是你有多少次听到你最喜欢的科技公司或大型开源项目的人吹嘘他们的 Scrum 流程有多棒？在你知道自己需要更多的东西之前，一直遵循流程。相信你的团队，他们会做到的。
 ### 18. Software engineers, like all humans, need to feel ownership
 ### 18\. 软件工程师，像所有人一样，需要感受到所有权
-
-If you divorce someone from the output of their work, they will care less about their work. I see this almost as a tautology. This is the primary reason why cross-functional teams work so well, and why DevOps has become so popular. It isn’t all about handoffs and inefficiencies, it is about owning the whole process from start to finish, and being directly responsible for delivering value. Give a group of passionate people complete [ownership over designing](https://www.simplethread.com/doerrs-law-on-product-teams/), building, and delivering a piece of software (or anything really) and amazing things will happen.
-
-如果你把某人的工作成果与他们的工作分离开来，他们就不会那么关心自己的工作。我认为这几乎是同义反复。这就是为什么跨职能团队工作得这么好的主要原因，也是为什么 DevOps 变得如此流行的主要原因。这并不全是关于换手和低效率，而是关于从开始到结束拥有整个过程，并直接负责交付价值。给予一群充满激情的人对设计、构建和交付一个软件(或任何真正的东西)的完全所有权，神奇的事情就会发生。
+- If you divorce someone from the output of their work, they will care less about their work. I see this almost as a tautology. This is the primary reason why cross-functional teams work so well, and why DevOps has become so popular. It isn’t all about handoffs and inefficiencies, it is about owning the whole process from start to finish, and being directly responsible for delivering value. Give a group of passionate people complete [ownership over designing](https://www.simplethread.com/doerrs-law-on-product-teams/), building, and delivering a piece of software (or anything really) and amazing things will happen.
+  
+  如果你把某人的工作成果与他们的工作分离开来，他们就不会那么关心自己的工作。我认为这几乎是同义反复。这就是为什么跨职能团队工作得这么好的主要原因，也是为什么 DevOps 变得如此流行的主要原因。这并不全是关于换手和低效率，而是关于从开始到结束拥有整个过程，并直接负责交付价值。给予一群充满激情的人对设计、构建和交付一个软件(或任何真正的东西)的完全所有权，神奇的事情就会发生。
 ### 19. Interviews are almost worthless for telling how good of a team member someone will be
 ### 19\. 面试对于告诉别人一个团队成员有多优秀几乎毫无价值
-
-Interviews are far better spent trying to understand who someone is, and how interested they are in a given field of expertise. Trying to suss out how good of a team member they will be is a fruitless endeavor. And believe me, how smart or knowledgable someone is is also not a good indicator that they will be a great team member. No one is going to tell you in an interview that they are going to be unreliable, abusive, pompous, or never show up to meetings on time. People might claim they have “signals” for these things… “if they ask about time off in the first interview then they are never going to be there!” But these are all bullshit. If you’re using signals like these you’re just guessing and turning away good candidates.
-
-面试更适合用于试图了解某人是谁，以及他们对某个特定领域的专业知识有多感兴趣。试图弄清楚一个团队成员有多优秀是徒劳的。相信我，一个人有多聪明多博学也不能说明他会成为一个优秀的团队成员。没有人会在面试中告诉你，他们不可靠，辱骂，浮夸，或者从不准时出席会议。人们可能会声称他们有这些事情的“信号”... “如果他们在第一次面试时问休息时间，那么他们永远不会在那里!”但这些都是胡说八道。如果你使用这样的信号，你只是在猜测和拒绝好的候选人。
+- Interviews are far better spent trying to understand who someone is, and how interested they are in a given field of expertise. Trying to suss out how good of a team member they will be is a fruitless endeavor. And believe me, how smart or knowledgable someone is is also not a good indicator that they will be a great team member. No one is going to tell you in an interview that they are going to be unreliable, abusive, pompous, or never show up to meetings on time. People might claim they have “signals” for these things… “if they ask about time off in the first interview then they are never going to be there!” But these are all bullshit. If you’re using signals like these you’re just guessing and turning away good candidates.
+  
+  面试更适合用于试图了解某人是谁，以及他们对某个特定领域的专业知识有多感兴趣。试图弄清楚一个团队成员有多优秀是徒劳的。相信我，一个人有多聪明多博学也不能说明他会成为一个优秀的团队成员。没有人会在面试中告诉你，他们不可靠，辱骂，浮夸，或者从不准时出席会议。人们可能会声称他们有这些事情的“信号”... “如果他们在第一次面试时问休息时间，那么他们永远不会在那里!”但这些都是胡说八道。如果你使用这样的信号，你只是在猜测和拒绝好的候选人。
 ### 20. Always strive to build a smaller system
 ### 20\. 总是努力建立一个更小的系统
-
-There are a lot of forces that will push you to build the bigger system up-front. Budget allocation, the inability to decide which features should be cut, the desire to deliver the “best version” of a system. All of these things push us very forcefully towards building too much. You should [fight this](https://www.simplethread.com/where-does-complexity-go/). You learn so much as you’re building a system that you will end up iterating into a much better system than you ever could have designed in the first place. This is surprisingly a hard sell to most people.
-
-有很多的力量将推动你建立一个更大的系统。预算分配，无法决定应该削减哪些功能，渴望提供系统的“最佳版本”。所有这些东西都强有力地推动我们去建造太多的东西。你应该反抗。在构建一个系统的过程中，你学到了很多东西，最终你会迭代到一个比你最初设计的系统要好得多的系统。对于大多数人来说，这是一个令人惊讶的难以推销的东西。
+- There are a lot of forces that will push you to build the bigger system up-front. Budget allocation, the inability to decide which features should be cut, the desire to deliver the “best version” of a system. All of these things push us very forcefully towards building too much. You should [fight this](https://www.simplethread.com/where-does-complexity-go/). You learn so much as you’re building a system that you will end up iterating into a much better system than you ever could have designed in the first place. This is surprisingly a hard sell to most people.
+  
+  有很多的力量将推动你建立一个更大的系统。预算分配，无法决定应该削减哪些功能，渴望提供系统的“最佳版本”。所有这些东西都强有力地推动我们去建造太多的东西。你应该反抗。在构建一个系统的过程中，你学到了很多东西，最终你会迭代到一个比你最初设计的系统要好得多的系统。对于大多数人来说，这是一个令人惊讶的难以推销的东西。
