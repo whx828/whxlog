@@ -3,7 +3,7 @@
 /* https://raw.githack.com/dracula/logseq/master/custom.css
 */
 
-@import url('https://cdn.jsdelivr.net/gh/pengx17/logseq-laurel-theme@master/custom.css');
+@import url('https://raw.githack.com/DenaroCF/LS-Base16-Atelier-Forest-by-Denaro/main/custom.css');
 
 :root {
   --background: #282a36;
