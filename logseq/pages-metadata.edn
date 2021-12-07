@@ -2,8 +2,8 @@
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
  {:block/name "../assets/bitcoin_zh_cn_1637850655613_0.pdf",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name
   "../assets/visible_learning_for_teachers_maximizing_impact_on_learning-routledge_1637850707448_0.pdf",
   :block/created-at 1637889127095,
@@ -15,11 +15,11 @@
   :block/created-at 1637889127098,
   :block/updated-at 1637889127098}
  {:block/name "./license",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name ".eisenhower-matrix",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name
   "20 things i’ve learned in my 20 years as a software engineer",
   :block/created-at 1637845065575,
@@ -28,17 +28,17 @@
   :block/created-at 1637892647020,
   :block/updated-at 1637937460180}
  {:block/name "2021-okr-01-krs",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "2021-okr-02-krs",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "2021-okr-03-krs",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "2021-okr-04-krs",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "2021-okr-o1-krs",
   :block/created-at 1637899865012,
   :block/updated-at 1637900493374}
@@ -125,13 +125,13 @@
   :block/updated-at 1637845065575}
  {:block/name "2021.12.5 -> 2021.12.11flomo",
   :block/created-at 1638778917888,
-  :block/updated-at 1638791563050}
+  :block/updated-at 1638843134991}
  {:block/name "2021.12.5 -> 2021.12.11学习记录",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "2021.12.5 -> 2021.12.11每周复盘",
   :block/created-at 1638777730845,
-  :block/updated-at 1638791647605}
+  :block/updated-at 1638848646241}
  {:block/name "2021.5.10杂记",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
@@ -498,8 +498,8 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name " 在做计划事项",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "λ-reading",
   :block/created-at 1637845065575,
   :block/updated-at 1638011436714}
@@ -507,14 +507,14 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "互联网",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "人际交往",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
  {:block/name "人际关系",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "信息",
   :block/created-at 1637845065572,
   :block/updated-at 1637845065572}
@@ -522,20 +522,20 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "元宇宙",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "写作",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "创意",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "前沿",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "加班",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "区块链",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -549,8 +549,8 @@
   :block/created-at 1637889127096,
   :block/updated-at 1637889127096}
  {:block/name "启发",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "呼吸",
   :block/created-at 1638004966891,
   :block/updated-at 1638009796697}
@@ -564,8 +564,8 @@
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "在做其他事项",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "多态",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -591,14 +591,14 @@
   :block/created-at 1637845065574,
   :block/updated-at 1638777714822}
  {:block/name "学术",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "小波分析",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "工作",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "工具",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -606,8 +606,8 @@
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "引用",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "待做其他事项",
   :block/created-at 1637889127095,
   :block/updated-at 1637889127095}
@@ -636,14 +636,14 @@
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
  {:block/name "技能",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "提问",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "搞笑",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978328,
+  :block/updated-at 1638848978328}
  {:block/name "数字生活",
   :block/created-at 1637845065574,
   :block/updated-at 1638002212049}
@@ -651,14 +651,14 @@
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "未来",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "格言",
   :block/created-at 1637889127099,
   :block/updated-at 1637889127099}
  {:block/name "歌曲",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "每周复盘",
   :block/created-at 1637845065573,
   :block/updated-at 1638777635745}
@@ -669,8 +669,8 @@
   :block/created-at 1637845065574,
   :block/updated-at 1638779019787}
  {:block/name "消费",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "环境变量",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
@@ -678,8 +678,8 @@
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
  {:block/name "生活",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "生活经验",
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
@@ -696,8 +696,8 @@
   :block/created-at 1637845065574,
   :block/updated-at 1637845065574}
  {:block/name "统计",
-  :block/created-at 1638791695758,
-  :block/updated-at 1638791695758}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "编程",
   :block/created-at 1637845065573,
   :block/updated-at 1637845065573}
@@ -726,8 +726,8 @@
   :block/created-at 1638103582478,
   :block/updated-at 1638104298437}
  {:block/name "财富",
-  :block/created-at 1638791695759,
-  :block/updated-at 1638791695759}
+  :block/created-at 1638848978327,
+  :block/updated-at 1638848978327}
  {:block/name "阅读",
   :block/created-at 1637845065575,
   :block/updated-at 1637845065575}
